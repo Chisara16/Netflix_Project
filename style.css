@@ -29,6 +29,8 @@ body{
 .container{
     display: flex;
     height: 100px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .container #sign-in{
